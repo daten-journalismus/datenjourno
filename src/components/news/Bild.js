@@ -9,7 +9,7 @@ export class Bild extends Component {
       // backgroundSize:"auto 150px", 
       height:"110px",      
       marginTop:"15px", 
-      background:"url('img/bild.png') Center / contain no-repeat"
+      background:"url('../img/bild.png') Center / contain no-repeat"
     })    
   }
 
