@@ -1,0 +1,53 @@
+.slider{  
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  overflow: hidden;
+  i{
+    font-size: 3vw;
+  }
+}
+
+.slide{
+  min-width: 100%;
+  height: 100%;
+  transition: .5s;
+  overflow: hidden;
+}
+
+%btn-styles{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 10%;
+  height: 100%;
+  background: none;
+  border: none;
+  outline: none;
+  transition: .5s;
+  &:hover{
+    background: rgba($color: #000000, $alpha: .1);
+    cursor: pointer;
+    .fa-chevron-left{
+      color:#F24438
+    }
+    .fa-chevron-right{
+      color:#2296F2
+    }
+  }
+}
+
+#goLeft{
+  left: 0;
+  @extend %btn-styles  
+}
+
+#goRight{
+  right: 0;
+  @extend %btn-styles  
+}

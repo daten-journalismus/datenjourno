@@ -1,0 +1,111 @@
+
+
+/* ////////////////////////////////////// */
+/*  Data Table */
+/* ////////////////////////////////////// */
+.dataframe {
+  /* width: 80vw; */
+  /* margin:0 auto; */
+  font-size: 10pt;
+  font-family: "Roboto Mono";
+  border-collapse: collapse; 
+  border: 1px solid silver;
+}
+
+.dataframe th#headig {
+  font-size: 11pt;
+  color: white;
+  background: #2196f3;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right,#f44336,#2196f3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,#f44336,#2196f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.dataframe th{
+  text-align: center;
+}
+
+.dataframe th,td {
+  padding: 2px;
+}
+
+.dataframe th#paywall{
+  min-width: 15px;
+}
+
+.dataframe th#topic{
+  min-width: 160px;
+  max-width: 170px;
+}
+
+.dataframe th#freq{
+  min-width: 80px;
+  max-width: 80px;
+}
+
+.dataframe th#desc,th#title{
+  min-width: 165px;
+  max-width: 170px;
+}
+
+.dataframe tr:nth-child(even) {
+  background: #E0E0E0;
+}
+
+.dataframe tr:hover {
+  background: silver;
+}
+
+.dataframe a{
+  /* style={{textDecoration:"none",color:"black",fontWeight:"bolder"}} */
+  text-decoration: none;
+  color: #2794ED;
+}
+
+/* ////////////////////////////////// */
+/* // src > posts > e.g. WeltPolitikJahr */
+/* ////////////////////////////////// */
+.post-row-content{
+  width: 90vw;
+  margin: 0 auto;
+  font-size: 1.0em;
+  font-family: "Roboto Mono";
+  border: 1px solid #2c3e5062;
+  /* // border-top: none; */
+  padding-bottom: 15px;
+}
+
+.post-row-content h4,h5{
+  font-weight: bolder;
+  text-align: center;
+  padding-top: 8px;
+}
+.post-row-content h5{
+  font-size:18pt;
+}
+
+.post-row-content h6{
+  padding-bottom: 8px;
+}
+
+.post-row-heading {
+  font-size: 1.0em;
+  /* // font-family: "Roboto"; */
+  font-weight: bold;
+  text-align: right;
+  border-bottom: 1px solid #2c3e5062;
+}
+
+.post-row-cell{
+  border-bottom: 1px solid #2c3e5062;
+}
+
+.post-row-content a{
+  color: #2794ED;
+  text-decoration: none;
+}
+
+
+.post-iframe{
+  width: 80vw;
+}
