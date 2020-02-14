@@ -123,7 +123,7 @@ class Bio extends Component {
 
             <h3>Work</h3>
 
-            <Work startYear={2019} taskName="data-journalism-ho.me" taskDescription="Data science project with the goal of providing a bird's-eye view of the German media landscape and public forums." />
+            <Work startYear={2019} taskName="data-journalism-ho.me" taskDescription="Data science project (desktop version) with the goal of providing a bird's-eye view of the German media landscape and public forums." />
 
             <Work startYear={2001} endYear={2016} taskName="Freelance translator" taskDescription="Primarily worked on technical, corporate documents from IT companies." />
 

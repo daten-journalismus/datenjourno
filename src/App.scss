@@ -172,20 +172,22 @@
   margin:0 auto;
 }
 .about-desc{
-  margin-top: 90px;
   margin-left: 0;
   width: 450px;
   height: 300px;
   padding: 35px 10px;
-  font-family: "Roboto Mono";
-  font-size: 1.1em;
-  font-weight: bold;
-  line-height: 2.1em;
   // background-color: rgba(0, 0, 0, 0.882);
   color: rgb(35, 88, 187);
   // #28CF75
   text-align: left;
 
+}
+
+.about-desc p{
+  font-family: "Roboto Mono";
+  font-size: 1.1em;
+  // font-weight: bold;
+  line-height: 2.0em;
 }
 
 /* ############################################ */
