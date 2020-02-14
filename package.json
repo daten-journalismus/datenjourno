@@ -1,6 +1,6 @@
 {
   "name": "datenjourno",
-  "homepage": "https://data-journalism-ho.me/",
+  "homepage": "http://data-journalism-ho.me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
