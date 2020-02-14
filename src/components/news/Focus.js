@@ -9,7 +9,7 @@ export class Focus extends Component {
       height:"110px",      
       marginTop:"15px", 
       // backgroundSize:"300px auto", 
-      background:"url('img/focus.jpg') Center center/Cover no-repeat"
+      background:"url('../../img/focus.jpg') Center center/Cover no-repeat"
     })    
   }
 

@@ -10,7 +10,7 @@ export class Standard extends Component {
       height:"110px",      
       marginTop:"15px", 
       // backgroundSize:"auto 150px", 
-      background:"url('img/der_standard.svg.png') Center / contain no-repeat"
+      background:"url('../../img/der_standard.svg.png') Center / contain no-repeat"
     })    
   }
   

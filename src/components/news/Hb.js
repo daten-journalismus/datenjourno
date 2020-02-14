@@ -9,7 +9,7 @@ export class Hb extends Component {
       height:"110px",      
       marginTop:"15px", 
       // backgroundSize:"auto 150px", 
-      background:"url('img/hb.png') Center / contain no-repeat"
+      background:"url('../../img/hb.png') Center / contain no-repeat"
     })    
   }
 

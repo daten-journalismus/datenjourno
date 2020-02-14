@@ -8,7 +8,7 @@ class SZ extends Component{
       color:"#fff",
       height:"110px",      
       marginTop:"15px", 
-      background:"url('img/sz.svg.png') Center / contain no-repeat"
+      background:"url('../../img/sz.svg.png') Center / contain no-repeat"
     })    
   }
 

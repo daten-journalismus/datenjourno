@@ -8,7 +8,7 @@ class Zeit extends Component{
       color:"#fff",
       height:"110px",      
       marginTop:"15px", 
-      background:"url('img/zeit.png') Center / contain no-repeat"
+      background:"url('../../img/zeit.png') Center / contain no-repeat"
     })    
   }
 

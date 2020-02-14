@@ -9,7 +9,7 @@ export class Webde extends Component {
       height:"110px",      
       marginTop:"15px", 
       // backgroundSize:"auto 150px", 
-      background:"url('img/web_de.png') Center / contain no-repeat"
+      background:"url('../../img/web_de.png') Center / contain no-repeat"
     })    
   }
 

@@ -31,7 +31,7 @@ class Welt extends Component{
       // backgroundSize:"auto 150px",
       height:"110px",      
       marginTop:"15px", 
-      background:"url('img/welt.png') Center / contain no-repeat"
+      background:"url('../../img/welt.png') Center / contain no-repeat"
     })    
   }
 

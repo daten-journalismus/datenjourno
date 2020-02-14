@@ -8,7 +8,7 @@ export class Europe extends Component {
       color:"#DD0000",
       height:"140px",
       // backgroundSize:"auto 150px", 
-      background:"url('img/r_europe.png') Center / cover no-repeat"
+      background:"url('../../img/r_europe.png') Center / cover no-repeat"
     })    
   }
 

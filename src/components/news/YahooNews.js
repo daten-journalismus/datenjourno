@@ -10,7 +10,7 @@ export class YahooNews extends Component {
       height:"110px",      
       marginTop:"15px", 
       // backgroundSize:"auto 150px", 
-      background:"url('img/yahoo_nachrichten.png') Center / cover no-repeat"
+      background:"url('../../img/yahoo_nachrichten.png') Center / cover no-repeat"
     })    
   }
 

@@ -8,7 +8,7 @@ export class DE extends Component {
       color:"#000",
       height:"140px", 
       // backgroundSize:"auto 150px", 
-      background:"url('img/r_de.png') Center / cover no-repeat"
+      background:"url('../../img/r_de.png') Center / cover no-repeat"
     })    
   }
 

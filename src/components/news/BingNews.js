@@ -8,7 +8,7 @@ export class BingNews extends Component {
       color:"#fff",
       height:"110px",      
       marginTop:"15px", 
-      background:"url('img/bing_news.png') Center / contain no-repeat"
+      background:"url('../../img/bing_news.png') Center / contain no-repeat"
     })    
   }
 
