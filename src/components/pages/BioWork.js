@@ -5,10 +5,10 @@ class Work extends Component {
   render() {
     return(
       <Grid>
-        <Cell col={4}>
+        <Cell col={3}>
           <p>{this.props.startYear} &ndash; {this.props.endYear} </p>
         </Cell>
-        <Cell col={8}>
+        <Cell col={9}>
           <h5 style={{marginTop:"0px",textAlign:"left"}}>{this.props.taskName} </h5>
           <p>{this.props.taskDescription} </p>
         </Cell>
