@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.8f1f97c6.chunk.css",
-    "main.js": "/static/js/main.df825ab0.chunk.js",
-    "main.js.map": "/static/js/main.df825ab0.chunk.js.map",
+    "main.js": "/static/js/main.97099636.chunk.js",
+    "main.js.map": "/static/js/main.97099636.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5b183613.js",
     "runtime-main.js.map": "/static/js/runtime-main.5b183613.js.map",
     "static/css/2.a6bc1c31.chunk.css": "/static/css/2.a6bc1c31.chunk.css",
-    "static/js/2.b2fe015f.chunk.js": "/static/js/2.b2fe015f.chunk.js",
-    "static/js/2.b2fe015f.chunk.js.map": "/static/js/2.b2fe015f.chunk.js.map",
+    "static/js/2.e6330681.chunk.js": "/static/js/2.e6330681.chunk.js",
+    "static/js/2.e6330681.chunk.js.map": "/static/js/2.e6330681.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ab47e5aab30bfaca498f88485d34700f.js": "/precache-manifest.ab47e5aab30bfaca498f88485d34700f.js",
+    "precache-manifest.1a52899974861fd0ccb5674c7f19157d.js": "/precache-manifest.1a52899974861fd0ccb5674c7f19157d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a6bc1c31.chunk.css.map": "/static/css/2.a6bc1c31.chunk.css.map",
     "static/css/main.8f1f97c6.chunk.css.map": "/static/css/main.8f1f97c6.chunk.css.map",
-    "static/js/2.b2fe015f.chunk.js.LICENSE": "/static/js/2.b2fe015f.chunk.js.LICENSE",
+    "static/js/2.e6330681.chunk.js.LICENSE": "/static/js/2.e6330681.chunk.js.LICENSE",
     "static/media/1.png": "/static/media/1.1d4b910a.png",
     "static/media/2.png": "/static/media/2.e1f34e4f.png",
     "static/media/3.png": "/static/media/3.c37474c5.png",
@@ -25,14 +25,15 @@
     "static/media/about.png": "/static/media/about.0a8209fa.png",
     "static/media/welt_2019_topic_top68_wordcloud.png": "/static/media/welt_2019_topic_top68_wordcloud.e878bfe6.png",
     "static/media/welt_monthly_topics_01_2020_pie.png": "/static/media/welt_monthly_topics_01_2020_pie.7e7176b0.png",
+    "static/media/welt_politik_2019_topic_top30_bar_horiz.png": "/static/media/welt_politik_2019_topic_top30_bar_horiz.3a399920.png",
     "static/media/welt_weekly_art_desc_pos_tags_horiz.png": "/static/media/welt_weekly_art_desc_pos_tags_horiz.99b4b043.png",
     "static/media/welt_weekly_art_desc_verbs_wordcloud.png": "/static/media/welt_weekly_art_desc_verbs_wordcloud.2a9802d0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5b183613.js",
     "static/css/2.a6bc1c31.chunk.css",
-    "static/js/2.b2fe015f.chunk.js",
+    "static/js/2.e6330681.chunk.js",
     "static/css/main.8f1f97c6.chunk.css",
-    "static/js/main.df825ab0.chunk.js"
+    "static/js/main.97099636.chunk.js"
   ]
 }

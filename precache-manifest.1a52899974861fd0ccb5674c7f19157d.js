@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81590fca96136ae7eb59783e9f8b4f36",
+    "revision": "b4ca0a338ee58fefe4c6b354d6eb0382",
     "url": "/index.html"
   },
   {
-    "revision": "0a967f2f3787842dbbf8",
+    "revision": "9046bce596eae688df89",
     "url": "/static/css/2.a6bc1c31.chunk.css"
   },
   {
-    "revision": "8b644dbaef99be55c4d9",
+    "revision": "f89be173a16f3ef52c3f",
     "url": "/static/css/main.8f1f97c6.chunk.css"
   },
   {
-    "revision": "0a967f2f3787842dbbf8",
-    "url": "/static/js/2.b2fe015f.chunk.js"
+    "revision": "9046bce596eae688df89",
+    "url": "/static/js/2.e6330681.chunk.js"
   },
   {
     "revision": "f6a4203c5bf0a13c54ddb1287bef00fd",
-    "url": "/static/js/2.b2fe015f.chunk.js.LICENSE"
+    "url": "/static/js/2.e6330681.chunk.js.LICENSE"
   },
   {
-    "revision": "8b644dbaef99be55c4d9",
-    "url": "/static/js/main.df825ab0.chunk.js"
+    "revision": "f89be173a16f3ef52c3f",
+    "url": "/static/js/main.97099636.chunk.js"
   },
   {
     "revision": "d2113fb9204511eebbd1",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e7176b0f18682e82adb3c35dddf3342",
     "url": "/static/media/welt_monthly_topics_01_2020_pie.7e7176b0.png"
+  },
+  {
+    "revision": "3a39992044d626057da65954b523cd77",
+    "url": "/static/media/welt_politik_2019_topic_top30_bar_horiz.3a399920.png"
   },
   {
     "revision": "99b4b043d69da5250561f34b59206a28",
