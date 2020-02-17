@@ -1,7 +1,7 @@
 import React from 'react'
 import { Grid, Cell, Card, CardTitle, CardActions } from 'react-mdl'
 import i1 from "../img/welt_2019_topic_top68_wordcloud.png"
-import i2 from "../img/2.png"
+import i2 from "../img/welt_politik_2019_topic_top30_bar_horiz.png"
 
 export default function WeltPolitikJahr() {
 
