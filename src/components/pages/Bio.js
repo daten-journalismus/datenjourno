@@ -55,7 +55,8 @@ class Bio extends Component {
             <div className="contact-list">
               <h5>Contact</h5>
               <p>
-                <i className="fa fa-envelope-square" /><a href="mailto:datenjourno@outlook.de" >datenjourno&nbsp;@outlook.de</a>
+                {/* <i className="fa fa-envelope-square" /><a href="mailto:datenjourno@outlook.de" >datenjourno&nbsp;@outlook.de</a> */}
+                <i className="fa fa-envelope-square" /><a href="mailto:datasci_kor@outlook.com" >datasci_kor&nbsp;@outlook.com</a>
               </p>
               <p>
                 <i class="fa fa-skype" /><a href="http://web.skype.com" target="_blank" rel="noopener noreferrer">
@@ -68,7 +69,8 @@ class Bio extends Component {
                   </a><span>(Threema ID)</span> 
               </p>              
               <p>
-                <i className="fa fa-home" /><a href="https://goo.gl/maps/r1vSN52p3EyPM6tH9"  target="_blank" rel="noopener noreferrer">Diefenbachstrasse, 81479 Munich</a>
+                {/* <i className="fa fa-home" /><a href="https://goo.gl/maps/r1vSN52p3EyPM6tH9"  target="_blank" rel="noopener noreferrer">Diefenbachstrasse, 81479 Munich</a> */}
+                <i className="fa fa-home" /><a href="https://goo.gl/maps/r1vSN52p3EyPM6tH9"  target="_blank" rel="noopener noreferrer">Madeul-ro 859, 01318 Seoul, South Korea</a>
               </p>
               
               <hr style={{borderTop:"3px solid #F24437",width:"55%"}} />
