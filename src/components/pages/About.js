@@ -14,7 +14,12 @@ export class About extends Component {
               <div className="about-desc">
 
                 {/* <p>Thank you for visiting.</p> */}
-                <p><span style={{color:"#F24438",fontSize:"2em",fontWeight:"bold"}}>provides a data-oriented summary of news coverage and public discussions.</span> </p>
+                <h4>
+                explores news coverage and public discussions using data science methodology.
+                </h4>
+
+                <h5>
+                  <span style={{color:"#F0453A",fontWeight:"bold"}}>Last modified:</span> April 19, 2020 </h5>
 
                 
                 {/* <p>It uses <span style={{color:"#000",fontWeight:"bold"}}>data science methods and tools</span> to show key topics and insights <span style={{color:"#000",fontWeight:"bold"}}>concise</span>ly and <span style={{color:"#000",fontWeight:"bold"}}>visual</span>ly from a variety of sources.</p> */}

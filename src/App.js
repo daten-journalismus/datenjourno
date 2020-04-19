@@ -42,7 +42,7 @@ class App extends Component {
         return (
             <div className="demo-big-content">
             <Layout>
-                <Header title={<Link className="header-link" to="/">data-journalism-ho.me</Link> } className="header-style" scroll>
+                <Header title={<Link className="header-link" to="/">data-journalism-ho.me &copy; 2020 Jieun K.</Link> } className="header-style" scroll>
                     <Navigation className="app-nav" >
                         <Link style={nav_link} to="/about" >About</Link>
                         <Link style={nav_link} to="/project" onClick={this.hide_animation} >Project</Link> 

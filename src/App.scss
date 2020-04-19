@@ -174,20 +174,28 @@
 .about-desc{
   margin-left: 0;
   width: 450px;
-  height: 300px;
+  height: 230px;
   padding: 35px 10px;
-  // background-color: rgba(0, 0, 0, 0.882);
-  color: rgb(35, 88, 187);
-  // #28CF75
+  color: #333;
   text-align: left;
+  font-family: "Roboto Mono, monospace";
+  // background-color: rgba(0, 0, 0, 0.882);
+  // color: rgb(60, 105, 189);
+  // #28CF75
 
-}
+  h4 {
+    // font-size: 3rem;
+    font-weight: bold;
+    line-height: 200%;
+    font-size: 2rem;
+  }
 
-.about-desc p{
-  font-family: "Roboto Mono";
+  p {
   font-size: 1.1em;
   // font-weight: bold;
   line-height: 2.0em;
+  }  
+
 }
 
 /* ############################################ */

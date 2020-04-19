@@ -70,7 +70,7 @@ class Bio extends Component {
               </p>              
               <p>
                 {/* <i className="fa fa-home" /><a href="https://goo.gl/maps/r1vSN52p3EyPM6tH9"  target="_blank" rel="noopener noreferrer">Diefenbachstrasse, 81479 Munich</a> */}
-                <i className="fa fa-home" /><a href="https://goo.gl/maps/r1vSN52p3EyPM6tH9"  target="_blank" rel="noopener noreferrer">Madeul-ro 859, 01318 Seoul, South Korea</a>
+                <i className="fa fa-home" /><a href="https://goo.gl/maps/r1vSN52p3EyPM6tH9"  target="_blank" rel="noopener noreferrer">Madeul-ro 859, 01318 Seoul, Korea</a>
               </p>
               
               <hr style={{borderTop:"3px solid #F24437",width:"55%"}} />
